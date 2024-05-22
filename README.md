@@ -1,2 +1,1 @@
-# Lab2_FER202
-lab2
+# Lab2-FER202
